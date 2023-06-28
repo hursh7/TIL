@@ -9,8 +9,13 @@
 
 ## 목차
 
-- [git](#git)
+- [Git](#Git)
+- [Language](#Language)
 
 ### git
 
-- [00. git 명령어 모음](git/00_git_cli.md)
+- [00. Git 명령어 모음](git/00_git_cli.md)
+
+### Language
+
+- [00. Array](Language/JavaScript/00_Array.md)
