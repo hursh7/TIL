@@ -10,12 +10,14 @@
 ## 목차
 
 - [Git](#Git)
-- [Language](#Language)
+- [JavaScript](#JavaScript)
 
-### git
+### Git
 
 - [00. Git 명령어 모음](git/00_git_cli.md)
 
-### Language
+### JavaScript
 
-- [00. Array](Language/JavaScript/00_Array.md)
+- [00. Array](JavaScript/00_Array.md)
+- [01. Array APIS](JavaScript/01_Array_APIS.md)
+- [02. For ...of vs For ...in](JavaScript/02_ForOf_forIn.md)
