@@ -33,4 +33,6 @@
 
 - [00. Intro](Modern_JS_DeepDive/00_Intro.md)
 - [01. Variable](Modern_JS_DeepDive/01_Variable.md)
-- [01. Expression Statement](Modern_JS_DeepDive/02_ExpressionStatement.md)
+- [02. Expression Statement](Modern_JS_DeepDive/02_ExpressionStatement.md)
+- [03. Data Type](Modern_JS_DeepDive/03_DataType.md)
+- [04. Operator](Modern_JS_DeepDive/04_Operator.md)
