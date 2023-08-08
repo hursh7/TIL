@@ -17,8 +17,9 @@
 
 ### Git
 
-- [00. Git 명령어 모음](git/00_git_cli.md)
-- [01. Git Cherry Pick](git/01_git_cherry_pick.md)
+- [00. Git 명령어 모음](Git/00_Git_cli.md)
+- [01. Git Cherry Pick](Git/01_Git_cherry_pick.md)
+- [01. Git Cherry Pick](Git/02_Git_submodule.md)
 
 ### JavaScript
 
