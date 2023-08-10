@@ -49,6 +49,16 @@ git은 총 3가지의 작업 환경으로 나뉘어져 있다.
 - `git push -D origin another` : 원격 저장소의 anohter branch를 삭제한다.
 - `git checkout -b another` : branch를 만들고 해당 branch로 이동한다.
 - `git checkout -b another origin/another` : 로컬에 another 브랜치를 만들어서 origin원격의 antoher 브랜치의 내용을 받아오고, 해당 브랜치로 이동한다.
+- `git fetch --all --prune` : 원격 저장소의 브랜치를 로컬에서 최신화 하기.
+- 원격 저장소의 브랜치를 로컬에서 최신화 하기.
+
+  ```bash
+  git branch -m oldname newname // oldname 에서 newname으로 이름 변경
+  git push origin :oldname // oldname 브랜치의 삭제사항을 푸시
+  git push --set-upstream origin newname // 이름을 바꾼 브랜치를 푸시
+  ```
+
+- `git clone -b {브랜치이름} --single-branch {저장소 url}` : 특정 브랜치(branch)만 clone 하기
 
 ### gitignore
 
