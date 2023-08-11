@@ -27,6 +27,7 @@
 - [00. Array](JavaScript/00_Array.md)
 - [01. Array APIS](JavaScript/01_Array_APIS.md)
 - [02. For ...of vs For ...in](JavaScript/02_ForOf_forIn.md)
+- [03. Promise API](JavaScript/03_Promise_API.md)
 
 ### React
 
