@@ -32,7 +32,9 @@
 ### React
 
 - [00. Concept](React/00_Concept.md)
-- [01. Hooks](React/01_Hooks.md)
+- [01. LifeCycle](React/01_LifeCycle.md)
+- [02. Hooks](React/02_Hooks.md)
+- [03. Memoization](React/03_Memoization.md)
 
 ### Modern_JS_DeepDive
 
