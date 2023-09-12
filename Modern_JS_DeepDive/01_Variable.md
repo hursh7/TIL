@@ -103,7 +103,7 @@ console.log(person); // undefined
 
 var person = "Jun"; // 변수 선언 & 값의 할당
 
-console.log(person); // YOUNG MIN
+console.log(person); // Jun
 ```
 
 # 값의 재할당
