@@ -46,6 +46,7 @@
 - [04. Operator](Modern_JS_DeepDive/04_Operator.md)
 - [05. Control Flow State](Modern_JS_DeepDive/05_ControlFlowState.md)
 - [06. Object Literal](Modern_JS_DeepDive/06_ObjectLiteral.md)
+- [07. Primitive Type & Object Type](Modern_JS_DeepDive/07_PrimitiveType_ObjectType.md)
 
 ### Library
 
