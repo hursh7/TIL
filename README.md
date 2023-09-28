@@ -19,8 +19,8 @@
 
 - [00. git 명령어 모음](git/00_git_cli.md)
 - [01. git Cherry Pick](git/01_git_cherry_pick.md)
-- [02. git Submodule](git/02_git_submodule.md)
-- [03. git Reflog](git/03_git_reflog.md)
+- [02. git Submodule](git/02_submodule.md)
+- [03. git Reflog](git/03_reflog.md)
 
 ### JavaScript
 
