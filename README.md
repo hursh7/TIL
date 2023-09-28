@@ -17,10 +17,10 @@
 
 ### Git
 
-- [00. Git 명령어 모음](Git/00_Git_cli.md)
-- [01. Git Cherry Pick](Git/01_Git_cherry_pick.md)
-- [02. Git Submodule](Git/02_Git_submodule.md)
-- [03. Git Reflog](Git/03_Git_reflog.md)
+- [00. Git 명령어 모음](git/00_Git_cli.md)
+- [01. Git Cherry Pick](git/01_Git_cherry_pick.md)
+- [02. Git Submodule](git/02_Git_submodule.md)
+- [03. Git Reflog](git/03_Git_reflog.md)
 
 ### JavaScript
 
