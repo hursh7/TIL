@@ -36,6 +36,9 @@
 - [01. LifeCycle](React/01_LifeCycle.md)
 - [02. Hooks](React/02_Hooks.md)
 - [03. Memoization](React/03_Memoization.md)
+- [04. Context API](React/04_Context_API.md)
+- [05. useReducer](React/05_useReducer.md)
+- [06. Form](React/06_Form.md)
 
 ### Modern_JS_DeepDive
 
