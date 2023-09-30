@@ -13,7 +13,7 @@
 - [JavaScript](#JavaScript)
 - [React](#React)
 - [Modern_JS_DeepDive](#Modern_JS_DeepDive)
-- [Libray](#Libray)
+- [Library](#Library)
 
 ### Git
 
