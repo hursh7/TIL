@@ -21,6 +21,9 @@
 - [01. git Cherry Pick](git/01_git_cherry_pick.md)
 - [02. git Submodule](git/02_submodule.md)
 - [03. git Reflog](git/03_reflog.md)
+- [04. git log](git/04_git_log.md)
+- [05. git merge](git/05_git_merge.md)
+- [06. git stash](git/06_git_stash.md)
 
 ### JavaScript
 
