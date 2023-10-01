@@ -25,6 +25,7 @@
 - [05. git merge](git/05_git_merge.md)
 - [06. git stash](git/06_git_stash.md)
 - [07. git undo](git/07_git_undo.md)
+- [07. git remote](git/08_git_remote.md)
 
 ### JavaScript
 
