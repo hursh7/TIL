@@ -11,6 +11,7 @@
 
 - [Git](#Git)
 - [JavaScript](#JavaScript)
+- [TypeScript](#TypeScript)
 - [React](#React)
 - [Modern_JS_DeepDive](#Modern_JS_DeepDive)
 - [Library](#Library)
@@ -34,6 +35,11 @@
 - [02. For ...of vs For ...in](JavaScript/02_ForOf_forIn.md)
 - [03. Shallow_Deep_Copy](JavaScript/03_Shallow_Deep_Copy.md)
 - [04. Promise API](JavaScript/04_Promise_API.md)
+
+### TypeScript
+
+- [01. Basic](TypeScript/01_Basic.md)
+- [02. Functions](TypeScript/02_Functions.md)
 
 ### React
 
