@@ -40,6 +40,13 @@
 
 - [01. Basic](TypeScript/01_Basic.md)
 - [02. Functions](TypeScript/02_Functions.md)
+- [03. Array](TypeScript/03_Array.md)
+- [04. Alias](TypeScript/04_Alias.md)
+- [05. Union](TypeScript/05_Union.md)
+- [06. InTersection](TypeScript/06_Intersection.md)
+- [07. Enum](TypeScript/07_Enum.md)
+- [08. Inference](TypeScript/08_Inference.md)
+- [09. Assertion](TypeScript/09_Assertion.md)
 
 ### React
 
