@@ -47,6 +47,11 @@
 - [07. Enum](TypeScript/07_Enum.md)
 - [08. Inference](TypeScript/08_Inference.md)
 - [09. Assertion](TypeScript/09_Assertion.md)
+- [10. Generic](TypeScript/10_Generic.md)
+- [11. Interface](TypeScript/11_Interface.md)
+- [12. Index](TypeScript/12_Index.md)
+- [13. Map](TypeScript/13_Map.md)
+- [14. Utility](TypeScript/14_Utility.md)
 
 ### React
 
